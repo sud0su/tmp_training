@@ -30,7 +30,7 @@ select = int(input(" ===========## Updated ##========== \n"
 number_1 = int(input("Enter first number: ")) 
 number_2 = int(input("Enter second number: ")) 
 # i change here
-print('my 3rd commit');
+print('this is edited by Finka');
   
 # edited by dodi 
 
@@ -51,3 +51,6 @@ elif select == 4:
                     divide(number_1, number_2)) 
 else: 
     print("Invalid input") 
+
+
+print ('this is edited by Finka')
