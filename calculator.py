@@ -30,7 +30,7 @@ select = int(input(" ===========## Updated ##========== \n"
 number_1 = int(input("Enter first number: ")) 
 number_2 = int(input("Enter second number: ")) 
 # i change here
-print('this is edited by Finka');
+print('this is edited by Khalid Usman');
   
 # edited by dodi 
 
