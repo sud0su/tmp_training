@@ -32,6 +32,8 @@ number_2 = int(input("Enter second number: "))
 # i change here
 print('my 3rd commit');
   
+# edited by dodi 
+
 if select == 1: 
     print(number_1, "+", number_2, "=", 
                     add(number_1, number_2)) 
