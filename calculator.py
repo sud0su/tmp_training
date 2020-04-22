@@ -32,6 +32,7 @@ number_2 = int(input("Enter second number: "))
 # i change here
 print('this is edited by Finka');
 print('this is edited by New Updates 2 ');
+print("New one code is edit by khalid usman");
   
 # edited by dodi 
 
