@@ -18,7 +18,7 @@ def divide(num1, num2):
 
 # Function to pow two numbers 
 def pows(num1, num2): 
-    return pow(num4, num1) 
+    return pow(num1, num2) 
   
 print("Please select operation -\n"
         "1. Add\n"
