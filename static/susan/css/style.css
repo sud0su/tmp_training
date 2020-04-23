@@ -668,7 +668,8 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 .expert_team_area.purple_team .expert_slider .expert_inner .expert_hover .expet_hover_inner {
-  background: rgba(166, 63, 208, 0.9);
+  /* background: rgba(166, 63, 208, 0.9); */
+  background: var(--purple);
   height: 100%;
   -webkit-transform: scale(0.5);
   -ms-transform: scale(0.5);
